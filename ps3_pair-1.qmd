@@ -30,5 +30,5 @@ def preview_data(df):
     object2 = df.describe()
     return [object1, object2]
 
-preview_data(data)
+preview_data(data) 
 ```
