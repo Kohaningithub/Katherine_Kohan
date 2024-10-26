@@ -1,0 +1,21 @@
+Partner1: Kohan_Chen, KohaningithubPartner2: Katherine_Tu, kattu1
+
+
+69d739d - kattu1, 87 seconds ago : Merge pull request #6 from Kohaningithub/histogram
+f942a96 - kattu1, 2 minutes ago : Merge branch 'main' into histogram
+1ae5423 - Kohaningithub, 8 minutes ago : Merge pull request #5 from Kohaningithub/describe
+db1e351 - kattu1, 15 minutes ago : Partner 2 commit describe
+b692ce5 - Kohaningithub, 16 minutes ago : Modify function to return head and histogram plot
+5266410 - Kohaningithub, 24 minutes ago : Modify function to return head and histogram plot
+afc1171 - Kohaningithub, 27 minutes ago : Merge pull request #4 from Kohaningithub/revert-3-describe
+cd07c7c - Kohaningithub, 27 minutes ago : Revert "Partner 2 add describe"
+c2b71dc - Kohaningithub, 33 minutes ago : Merge pull request #3 from Kohaningithub/describe
+fed6b9c - kattu1, 35 minutes ago : Partner 2 add describe
+62a6737 - Kohaningithub, 39 minutes ago : Modify function to return head and histogram plot
+1d366e3 - Kohaningithub, 55 minutes ago : Merge pull request #2 from Kohaningithub/merge_conflict_name_2
+08a3f2f - Kohaningithub, 55 minutes ago : Merge branch 'main' into merge_conflict_name_2
+621254a - kattu1, 59 minutes ago : Merge pull request #1 from Kohaningithub/merge_conflict_name_1
+9fab801 - kattu1, 63 minutes ago : Partner 2 change name
+cfa0814 - Kohaningithub, 63 minutes ago : Partner 1:Change Name to Kohan
+7331619 - Kohaningithub, 66 minutes ago : “finished”
+9122382 - Kohaningithub, 67 minutes ago : Initial commit
