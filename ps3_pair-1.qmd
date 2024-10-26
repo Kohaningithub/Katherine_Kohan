@@ -33,8 +33,4 @@ def preview_data(df):
       y='count()')
     return [head, histogram]
 
-output = preview_data(data)
-print(output[0])
-output[1].display()
-
 ```
