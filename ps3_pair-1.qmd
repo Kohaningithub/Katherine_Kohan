@@ -28,5 +28,5 @@ data = pd.DataFrame(np.random.rand(100), columns=['Random Numbers'])
 def preview_data(df):
     print(df.head())
 
-preview_data(data)
+preview_data(data) 
 ```
